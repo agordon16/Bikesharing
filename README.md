@@ -6,7 +6,7 @@ The goal of this project is to analyze New York City bikesharing data to ascerta
 ## Results
 
 ### Checkout Times By Gender 
-**This visualization shows that while most trip durations tend to be less than 40 minutes for most users, the majority of bikeshare users are male.**
+**This visualization shows that for trip durations times, the majority of bikeshare users are male.**
 
 ![checkoutbygender](https://github.com/agordon16/Bikesharing/blob/ffbbc94f7ae6a0a79cb312e7283d56723e54cd9a/Resources/CheckoutTimesByGender.jpg)
 
