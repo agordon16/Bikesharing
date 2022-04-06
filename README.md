@@ -40,7 +40,7 @@ The goal of this project is to analyze New York City bikesharing data to ascerta
 ![augustpeaktimes](https://github.com/agordon16/Bikesharing/blob/ccab113eec55d19a8b40bd6e555fb68b844c0f29/Resources/AugustPeakHours.jpg)
 
 ### Trips By Weekday per Hour
-**Supporting the August peak time data, trips by weekday support trip time trends towards morning hours of 6:00 am - 9:00 am as well as 4:00 pm -8:00 pm. With less utilization in the mid portion of weekdays, this supports the theory that many users are using the program to commute to and from the workplace.
+**Supporting the August peak time data, trips by weekday support trip time trends towards morning hours of 6:00 am - 9:00 am as well as 4:00 pm -8:00 pm. With less utilization in the mid portion of weekdays, this supports the theory that many users are using the program to commute to and from the workplace.**
 
 ![tripsweekdayhour](https://github.com/agordon16/Bikesharing/blob/8a80148b925ca0b889dc2c4281dc1647aec6b09c/Resources/TripsByWeekdayPerHour1.jpg)
 
