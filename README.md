@@ -1,5 +1,5 @@
 # Bikesharing
-[link to dashboard](https://public.tableau.com/app/profile/adelita.gordon/viz/Mod14ChallengePublic/CitiBikeAnalysis "CitiBike Analysis")
+[CitiBike Analysis](https://public.tableau.com/app/profile/adelita.gordon/viz/Mod14ChallengePublic/CitiBikeAnalysis "CitiBike Analysis")
 ## Overview
 The goal of this project is to analyze New York City bikesharing data to ascertain if a similar program would succeed in Des Moines, IA.
 
